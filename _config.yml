@@ -1,13 +1,13 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Zach's Damn Blog
+bio:                'coming'
+description:        "coming"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                https://zdb.bz
 
 # Jekyll
 permalink:          /:title/
@@ -25,35 +25,35 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   zachbrowne
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:            zachbrowne
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
+email:              zachbrowne@gmail.com
+twitter:            zachbrowne
+facebook:           zachbrowne
+github:             zachbrowne
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:           username
+linkedin:           zachbrowne
 #xing:              username
-instagram:          username
+instagram:          zachbrowne
 #lastfm:             username
-#tumblr:             username
-#pinterest:         username
-#foursquare:        username
-steam:              username
+tumblr:             zachbrowne
+pinterest:          zachbrowne
+foursquare:         zachbrowne
+#steam:              username
 #dribbble:          username
-#youtube:            username
+youtube:           designvisibility
 #soundcloud:        username
 #weibo:             username
-#flickr:            username
+flickr:             zachbrowne
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
